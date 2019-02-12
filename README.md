@@ -9,5 +9,12 @@ This application is capable to simulate the behavior of a WEB Proxy throw a simp
 
 # Screenshots :
 
+### Main Interface :
+![alt text](https://raw.githubusercontent.com/fkorteby/Simple-Web-Repeater/master/Simple%20Web%20Repeater.png?raw=true "Main Interface")
+
+### Console logs view :
+![alt text](https://raw.githubusercontent.com/fkorteby/Simple-Web-Repeater/master/Console%20logs%20preview.png?raw=true "Console logs view")
 
 # Download :
+
+Soon ...
