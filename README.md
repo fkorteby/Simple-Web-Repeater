@@ -17,4 +17,5 @@ This application is capable to simulate the behavior of a WEB Proxy throw a simp
 
 # Download :
 
-[Simple Web Repeater v0.1 for Windows](https://raw.githubusercontent.com/fkorteby/Simple-Web-Repeater/master/Web%20Repeater.exe)
+[Simple Web Repeater v0.1 for Windows (exe)](https://raw.githubusercontent.com/fkorteby/Simple-Web-Repeater/master/Web%20Repeater.exe)
+[Simple Web Repeater v0.1 for all platforms (jar)](https://raw.githubusercontent.com/fkorteby/Simple-Web-Repeater/master/Web%20Repeater.jar)
